@@ -5,6 +5,6 @@ Projeto realizado durante um bootcamp da [Digital Innovation One](https://digita
 ## Descrição do projeto
 Neste projeto, foi desenvolvido um jogo da velha utilizando HTML, CSS e Javascript.
 
-###   [RODAR JOGO](https://geovaneramirez.github.io/Projeto_Jogo_da_Velha/ target="_blank" )
+###   [RODAR JOGO](https://geovaneramirez.github.io/Projeto_Jogo_da_Velha/)
 
 
