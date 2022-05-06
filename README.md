@@ -7,4 +7,4 @@ Neste projeto, foi desenvolvido um jogo da velha utilizando HTML, CSS e Javascri
 
 ### Para rodar o projeto
 
-Para executarmos o jogo, basta cicar [aqui](index.html).
+Para executarmos o jogo, basta clicar [aqui](https://geovaneramirez.github.io/Projeto_Jogo_da_Velha/).
